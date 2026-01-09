@@ -1,5 +1,6 @@
 {
   "content" : {
+    "description" : "This mapping now reads from SQL Server",
     "allowMaxFieldLength" : "false",
     "bigIntConvertType" : "ONLY_BIGINT",
     "documentType" : "MAPPING",
@@ -902,5 +903,5 @@
       }
     ]
   },
-  "vcsExportTime" : "2026-01-09 11:15:01 PST"
+  "vcsExportTime" : "2026-01-09 11:16:54 PST"
 }

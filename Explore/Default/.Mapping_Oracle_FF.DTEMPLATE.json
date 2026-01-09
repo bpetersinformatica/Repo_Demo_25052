@@ -16,14 +16,14 @@
         "value" : "@1"
       } ],
       "additionalInfo" : {
-        "description" : "",
+        "description" : "This mapping now reads from SQL Server",
         "contentType" : "JSON",
         "documentState" : "VALID"
       }
     }
   },
   "dataFileExtension" : "zip",
-  "updateTime" : "2026-01-09T19:15:01.282Z",
+  "updateTime" : "2026-01-09T19:16:55.059Z",
   "objectRefs" : [ {
     "id" : "hNz6Z8qU8GJe4qgDMAxRMu",
     "name" : "Oracle_Connection",
